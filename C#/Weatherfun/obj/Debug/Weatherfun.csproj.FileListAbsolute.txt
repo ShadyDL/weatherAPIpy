@@ -1,0 +1,15 @@
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\bin\Debug\Weatherfun.exe.config
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\bin\Debug\Weatherfun.exe
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\bin\Debug\Weatherfun.pdb
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.csprojAssemblyReference.cache
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.Form1.resources
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.Properties.Resources.resources
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.csproj.GenerateResource.cache
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.csproj.CoreCompileInputs.cache
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.csproj.CopyComplete
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.exe
+C:\Users\aronheesakkers\source\repos\KanIkEenKorteBroekAan\Weatherfun\obj\Debug\Weatherfun.pdb
